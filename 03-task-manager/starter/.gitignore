@@ -1,2 +1,5 @@
 /node_modules
 .env
+
+# mongodb access: Xuxydqc02tjS32tg name: Zubby
+# connection string: mongodb+srv://Zubby:<db_password>@nodejscourse.n9ygu9i.mongodb.net/?retryWrites=true&w=majority&appName=NodeJSCourse
